@@ -8,7 +8,7 @@
 - Yağmur ERNALBANT: Scrum Master
 - Sedat ZENGİN: Team Member/Developer
 - Osman GÖKÇİN: Team Member/Developer
-- Hazal DEMİR: Team Member/Developer
+- Hazal DEMİR: Team Member/Game Artist
 
 ## Ürün İsmi
 
