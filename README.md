@@ -34,7 +34,8 @@
 - Gizem ve macera hayranları
 
 ## Product Backlog URL
-  - Backlog/Sprint: https://miro.com/app/board/uXjVM9x-_gw=/?share_link_id=445783936332
+
+- Backlog/Sprint: https://miro.com/app/board/uXjVM9x-_gw=/?share_link_id=445783936332
 
 # Sprint 1
 
@@ -48,20 +49,21 @@
 
 - **Daily Scrum**: Daily scrum toplantıları discord üzerinden, sesli şekilde yapıldı. Toplantılar genelde 10-15 dakika arası sürdü ve toplantılarda günlük fikirler ve durumlar paylaşıldı.
 
-- **Ürün Durumu**: Ekran görüntüleri:
-  
-- **Sprint Review**: 
-  - Katılımcılar: Tüm ekip üyeleri.
-  - Bu sprintte belirlediğimiz hedeflerin %75 kadarını tamamladık, sonraki sprint için stratejimizi şu şekilde belirledik: Tasklerin tamamlanmasında oluşan sorunlar için daha hızlı geri bildirim sağlamalıyız, bunun için WhatsApp'i ikincil iletişim kanalı olarak tercih edeceğiz.
+- **Ürün Durumu**:
 
-- **Sprint Retrospective:**
-  - 
-  - 
-  - 
+- ![image](https://github.com/gokcinosman/U117-OUA/assets/58394816/fa03079c-2f64-4cb6-bd60-dc332db8b8e7)
+  
+- **Sprint Review**:
+
+- Katılımcılar: Tüm ekip üyeleri.
+- Bu sprintte belirlediğimiz hedeflerin %75 kadarını tamamladık, sonraki sprint için stratejimizi şu şekilde belirledik: Tasklerin tamamlanmasında oluşan sorunlar için daha hızlı geri bildirim sağlamalıyız, bunun için WhatsApp'i ikincil iletişim kanalı olarak tercih edeceğiz.
+
+- **Sprint Retrospective**:
+  
+- İlk sprintte ekip içi iletişim konusunda sıkıntı yaşadık. Yoğunluklarımız ve vakit uyuşmazlıkları yüzünden ayrı toplanmak zorunda kaldık. Çoğu toplantıda 3 veya 4 kişiydik. İkinci sprintte bu durumu daha iyi yönetmek için ayrı çalışmayı destekleyecek şekilde taskler oluşturmanın yanında herhangi acil durumu/yoğunluğu birbirimize bildirmekte gecikmemeliyiz. 
+- İlk sprintte oyun teması ve genel fikri hakkında çok vakit kaybedildi, task oluşturma ve bitirme kısmına odaklanmamız gerekiyor.
 
 # Sprint 2
-  - İlk sprintte ekip içi iletişim konusunda sıkıntı yaşadık. Yoğunluklarımız ve vakit uyuşmazlıkları yüzünden ayrı toplanmak zorunda kaldık. Çoğu toplantıda 3 veya 4 kişiydik. İkinci sprintte bu durumu daha iyi yönetmek için ayrı çalışmayı destekleyecek şekilde taskler oluşturmanın yanında herhangi acil durumu/yoğunluğu birbirimize bildirmekte gecikmemeliyiz. 
-  - İlk sprintte oyun teması ve genel fikri hakkında çok vakit kaybedildi, task oluşturma ve bitirme kısmına odaklanmamız gerekiyor.
 
 ---
 
