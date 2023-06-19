@@ -47,11 +47,16 @@
 
 - **Backlog düzeni ve Story seçimleri**: Product backlog öncelik sırasındadır ve story seçimleri sprint için belirlenen puanı geçmeyecek şekilde yapıldı.
 
-- **Daily Scrum**: Daily scrum toplantıları discord üzerinden, sesli şekilde yapıldı. Toplantılar genelde 10-15 dakika arası sürdü ve toplantılarda günlük fikirler ve durumlar paylaşıldı.
+- **Daily Scrum**: Daily scrum toplantıları discord üzerinden, sesli şekilde yapıldı. Toplantılar genelde 10-15 dakika arası sürdü ve toplantılarda günlük fikirler ve durumlar paylaşıldı, neler yapılacağımız paylaşıldı. Daily scrum notlarımız aşağıdadır:
+
+https://docs.google.com/document/d/1C-u2WocK9yQ1gy72g2E5NWr3-s_CVOLJUmA3-cIInOg/edit?usp=sharing 
 
 - **Ürün Durumu**:
 
-- ![image](https://github.com/gokcinosman/U117-OUA/assets/58394816/fa03079c-2f64-4cb6-bd60-dc332db8b8e7)
+![image](https://github.com/gokcinosman/U117-OUA/assets/58394816/fa03079c-2f64-4cb6-bd60-dc332db8b8e7)
+![1111](https://github.com/gokcinosman/U117-OUA/assets/58394816/362da093-7f09-4fd9-91c9-ef9bbfff211f)
+![2222](https://github.com/gokcinosman/U117-OUA/assets/58394816/48022bed-598d-4b89-835d-d3cccf8754fe)
+![3333](https://github.com/gokcinosman/U117-OUA/assets/58394816/a7076d6d-f56b-402b-903a-8df06b342c87)
   
 - **Sprint Review**:
 
@@ -61,7 +66,7 @@
 - **Sprint Retrospective**:
   
 - İlk sprintte ekip içi iletişim konusunda sıkıntı yaşadık. Yoğunluklarımız ve vakit uyuşmazlıkları yüzünden ayrı toplanmak zorunda kaldık. Çoğu toplantıda 3 veya 4 kişiydik. İkinci sprintte bu durumu daha iyi yönetmek için ayrı çalışmayı destekleyecek şekilde taskler oluşturmanın yanında herhangi acil durumu/yoğunluğu birbirimize bildirmekte gecikmemeliyiz. 
-- İlk sprintte oyun teması ve genel fikri hakkında çok vakit kaybedildi, task oluşturma ve bitirme kısmına odaklanmamız gerekiyor.
+- İlk sprintte oyun teması ve genel fikri hakkında çok vakit kaybedildi, mekanikler üzerine daha fazla task oluşturma ve bitirme kısmına odaklanmamız gerekiyor.
 
 # Sprint 2
 
