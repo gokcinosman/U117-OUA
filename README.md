@@ -39,6 +39,8 @@
 
 # Sprint 1
 
+![U-117 Sprints](https://github.com/gokcinosman/U117-OUA/assets/58394816/37c2433f-707c-4f78-bcaa-17ac0a651a04) 
+
 - **Sprint Notları**: User storyleri okuyabilmek için product backlog üzerindeki tasklerin detaylarına gidebilirsiniz.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 80
@@ -53,6 +55,7 @@ https://docs.google.com/document/d/1C-u2WocK9yQ1gy72g2E5NWr3-s_CVOLJUmA3-cIInOg/
 
 - **Ürün Durumu**:
 
+- Proje dosyaları arasında da şu an kullandığımız assetlerle ilgili görseller bulunmakta. Aşağıdaki görseller eklediğimiz bazı mekaniklerin kısa testidir.
 ![image](https://github.com/gokcinosman/U117-OUA/assets/58394816/fa03079c-2f64-4cb6-bd60-dc332db8b8e7)
 ![1111](https://github.com/gokcinosman/U117-OUA/assets/58394816/362da093-7f09-4fd9-91c9-ef9bbfff211f)
 ![2222](https://github.com/gokcinosman/U117-OUA/assets/58394816/48022bed-598d-4b89-835d-d3cccf8754fe)
