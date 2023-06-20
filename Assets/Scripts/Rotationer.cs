@@ -10,12 +10,30 @@ public class Rotationer : MonoBehaviour
 
     [SerializeField]
     private GameObject rightArrow;
-    private bool isRotatingLeft;
-    private bool isRotatingRight;
 
-    private void Update()
+    // Rotation variables
+    private bool isRotating;
+    private float rotationDirection;
+
+    // Initial and target rotations
+    private Quaternion initialRotation;
+    private Quaternion targetRotation;
+
+    // Rotation settings (degrees)
+    [Range(0, 360)]
+    public float rotationAngle = 90f;
+
+    // Rotation speed (degrees per second)
+    public float rotationSpeed = 90f;
+
+    void Start()
     {
-        if (Input.GetMouseButtonDown(0))
+        initialRotation = objectToRotate.rotation;
+    }
+
+    void Update()
+    {
+        if (!isRotating && Input.GetMouseButtonDown(0))
         {
             RaycastHit hit;
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
@@ -23,35 +41,37 @@ public class Rotationer : MonoBehaviour
             {
                 if (hit.collider.gameObject == leftArrow)
                 {
-                    isRotatingLeft = true;
-                    isRotatingRight = false;
+                    RotateObject(1);
                 }
                 else if (hit.collider.gameObject == rightArrow)
                 {
-                    isRotatingLeft = false;
-                    isRotatingRight = true;
+                    RotateObject(-1);
                 }
             }
         }
-        else if (Input.GetMouseButtonUp(0))
-        {
-            isRotatingLeft = false;
-            isRotatingRight = false;
-        }
 
-        if (isRotatingLeft)
+        if (isRotating)
         {
-            RotateObject(1f);
-        }
-        else if (isRotatingRight)
-        {
-            RotateObject(-1f);
+            float step = rotationSpeed * Time.deltaTime;
+            objectToRotate.rotation = Quaternion.RotateTowards(
+                objectToRotate.rotation,
+                targetRotation,
+                step
+            );
+
+            if (Quaternion.Angle(objectToRotate.rotation, targetRotation) <= Mathf.Epsilon)
+            {
+                objectToRotate.rotation = targetRotation;
+                isRotating = false;
+            }
         }
     }
 
-    private void RotateObject(float direction)
+    // Rotates the object by rotationDirection * rotationAngle degrees
+    void RotateObject(float direction)
     {
-        float rotationSpeed = 1f; // Adjust the rotation speed as desired
-        objectToRotate.Rotate(Vector3.up * rotationSpeed * direction);
+        isRotating = true;
+
+        targetRotation = objectToRotate.rotation * Quaternion.Euler(0f, 90 * direction, 0f);
     }
 }

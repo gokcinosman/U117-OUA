@@ -715,6 +715,8 @@ MonoBehaviour:
   objectToRotate: {fileID: 905655220}
   leftArrow: {fileID: 448051357}
   rightArrow: {fileID: 1980174787}
+  rotationAngle: 90
+  rotationSpeed: 100
 --- !u!1 &686736908
 GameObject:
   m_ObjectHideFlags: 0
@@ -998,8 +1000,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 905655216}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.027, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 3.9624, y: 1.84, z: 0.028704}
+  m_LocalScale: {x: 3.3953, y: 3.3953, z: 3.3953}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 412957005}
@@ -1523,7 +1525,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1980174787}
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0.533, y: 0, z: 0}
+  m_LocalPosition: {x: 0.502, y: 0, z: 0}
   m_LocalScale: {x: 0.16030999, y: 0.16031002, z: 0.20966946}
   m_ConstrainProportionsScale: 0
   m_Children: []
