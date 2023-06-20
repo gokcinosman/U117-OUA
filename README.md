@@ -39,7 +39,7 @@
 
 # Sprint 1
 
-![U-117 Sprints](https://github.com/gokcinosman/U117-OUA/assets/58394816/37c2433f-707c-4f78-bcaa-17ac0a651a04) 
+![U-117 Sprints (1)](https://github.com/gokcinosman/U117-OUA/assets/58394816/b1c14984-db6c-45d9-861c-e5b774c8353d)
 
 - **Sprint Notları**: User storyleri okuyabilmek için product backlog üzerindeki tasklerin detaylarına gidebilirsiniz.
 
