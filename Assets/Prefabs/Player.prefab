@@ -138,6 +138,9 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
+  rb: {fileID: 0}
+  isGrounded: 0
+  xRotation: 0
 --- !u!1 &836179534519596372
 GameObject:
   m_ObjectHideFlags: 0
