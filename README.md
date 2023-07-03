@@ -54,13 +54,6 @@
 https://docs.google.com/document/d/1C-u2WocK9yQ1gy72g2E5NWr3-s_CVOLJUmA3-cIInOg/edit?usp=sharing 
 
 - **Ürün Durumu**:
-25.06.23
-![castle003](https://github.com/gokcinosman/U117-OUA/assets/58394816/b55fda4e-748d-4abc-8b93-9cdb97b5b084) 
-![Screenshot_6](https://github.com/gokcinosman/U117-OUA/assets/58394816/1df29676-383a-445e-b7db-7693be0691a5)
-![Screenshot_5](https://github.com/gokcinosman/U117-OUA/assets/58394816/fc170d91-5514-4e61-864f-75c548d68598)
-
-
-
 - Proje dosyaları arasında da şu an kullandığımız assetlerle ilgili görseller bulunmakta. Aşağıdaki görseller eklediğimiz bazı mekaniklerin kısa testidir.
 ![image](https://github.com/gokcinosman/U117-OUA/assets/58394816/fa03079c-2f64-4cb6-bd60-dc332db8b8e7)
 ![1111](https://github.com/gokcinosman/U117-OUA/assets/58394816/362da093-7f09-4fd9-91c9-ef9bbfff211f)
@@ -99,6 +92,10 @@ https://docs.google.com/document/d/1C-u2WocK9yQ1gy72g2E5NWr3-s_CVOLJUmA3-cIInOg/
 https://docs.google.com/document/d/1z09NiduMHsj4OS3crfH891wBZQYKjTTiZ3wP2mdL86U/edit?usp=sharing 
 
 - **Ürün Durumu**:
+25.06.23
+![castle003](https://github.com/gokcinosman/U117-OUA/assets/58394816/b55fda4e-748d-4abc-8b93-9cdb97b5b084) 
+![Screenshot_6](https://github.com/gokcinosman/U117-OUA/assets/58394816/1df29676-383a-445e-b7db-7693be0691a5)
+![Screenshot_5](https://github.com/gokcinosman/U117-OUA/assets/58394816/fc170d91-5514-4e61-864f-75c548d68598)
 
 - **Sprint Review**:
 
