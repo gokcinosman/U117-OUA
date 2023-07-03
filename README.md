@@ -71,8 +71,15 @@ https://docs.google.com/document/d/1C-u2WocK9yQ1gy72g2E5NWr3-s_CVOLJUmA3-cIInOg/
 - İlk sprintte ekip içi iletişim konusunda sıkıntı yaşadık. Yoğunluklarımız ve vakit uyuşmazlıkları yüzünden ayrı toplanmak zorunda kaldık. Çoğu toplantıda 3 veya 4 kişiydik. İkinci sprintte bu durumu daha iyi yönetmek için ayrı çalışmayı destekleyecek şekilde taskler oluşturmanın yanında herhangi acil durumu/yoğunluğu birbirimize bildirmekte gecikmemeliyiz. 
 - İlk sprintte oyun teması ve genel fikri hakkında çok vakit kaybedildi, mekanikler üzerine daha fazla task oluşturma ve bitirme kısmına odaklanmamız gerekiyor.
 
-# Sprint 2
+# Sprint 2 
 
+ ## Product Backlog URL 
+ 
+- https://miro.com/app/board/uXjVM9x-_gw=/ 
+
+![U-117 Sprints2](https://github.com/gokcinosman/U117-OUA/assets/58394816/0d4d94b0-6a73-402e-8319-446016120822)
+
+ 
 - **Sprint Notları**: User storyleri okuyabilmek için product backlog üzerindeki tasklerin detaylarına gidebilirsiniz.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100
@@ -89,17 +96,17 @@ https://docs.google.com/document/d/1z09NiduMHsj4OS3crfH891wBZQYKjTTiZ3wP2mdL86U/
 
 - **Sprint Review**:
 
-Katılımcılar: Tüm ekip üyeleri. 
+- Katılımcılar: Tüm ekip üyeleri. 
 
-Bu sprintte belirlediğimiz hedeflerin tamamına ulaşamadık. Oyun teması, ortam ve puzzle türlerini gözden geçirdik ve bir moodboard oluşturduk. Oyunun geçeceği ortamı belirlemek için orman içerisinde başlayan ve bir kaleye dönüşen bir atmosfer seçtik ve basitçe canlandırdık. Karakter oluşturduk, halihazırdaki mekaniklerimizi iyileştirdik ve nesnelerle etkileşimi daha iyi göstermek adına çalıştık. Ayrıca dış mekan tasarımını iyileştirmek ve odalara farklı puzzle mekaniklerini entegre etmek için çalışmalar yapıyoruz.  
+- Bu sprintte belirlediğimiz hedeflerin tamamına ulaşamadık. Oyun teması, ortam ve puzzle türlerini gözden geçirdik ve bir moodboard oluşturduk. Oyunun geçeceği ortamı belirlemek için orman içerisinde başlayan ve bir kaleye dönüşen bir atmosfer seçtik ve basitçe canlandırdık. Karakter oluşturduk, halihazırdaki mekaniklerimizi iyileştirdik ve nesnelerle etkileşimi daha iyi göstermek adına çalıştık. Ayrıca dış mekan tasarımını iyileştirmek ve odalara farklı puzzle mekaniklerini entegre etmek için çalışmalar yapıyoruz.  
 
-Bayram yoğunluğu ve işlerdeki aksamalar sebebiyle bazı gecikmeler yaşadık ancak hedeflerimize büyük ölçüde ulaştık ve bir sonraki sprint için planlamaları yaptık. 
+- Bayram yoğunluğu ve işlerdeki aksamalar sebebiyle bazı gecikmeler yaşadık ancak hedeflerimize büyük ölçüde ulaştık ve bir sonraki sprint için planlamaları yaptık. 
 
 - **Sprint Retrospective**:
   
-İkinci sprintteki ekip içi iletişim ve işbirliği sürecinde iyileşme kaydettik ama sorunları tamamen çözdüğümüzü söyleyemeyiz. Yine de birbirimize verdiğimiz geri bildirimlerle daha verimli bir şekilde çalıştık ve ilk sprinte kıyasla ilerlememizi daha iyi gözlemledik. 
+- İkinci sprintteki ekip içi iletişim ve işbirliği sürecinde iyileşme kaydettik ama sorunları tamamen çözdüğümüzü söyleyemeyiz. Yine de birbirimize verdiğimiz geri bildirimlerle daha verimli bir şekilde çalıştık ve ilk sprinte kıyasla ilerlememizi daha iyi gözlemledik. 
 
-Sprint boyunca iş ve sprint sonundaki bayram yoğunluğu da çalışmamıza zarar veren dış etkenler oldu. İletişim kanallarını etkin bir şekilde kullanmaya devam ederek ekip içi iletişimi etkili düzeyde tutmaya çalışacağız.
+- Sprint boyunca iş ve sprint sonundaki bayram yoğunluğu da çalışmamıza zarar veren dış etkenler oldu. İletişim kanallarını etkin bir şekilde kullanmaya devam ederek ekip içi iletişimi etkili düzeyde tutmaya çalışacağız.
 
 # Sprint 3
 
