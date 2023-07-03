@@ -54,7 +54,6 @@
 https://docs.google.com/document/d/1C-u2WocK9yQ1gy72g2E5NWr3-s_CVOLJUmA3-cIInOg/edit?usp=sharing 
 
 - **Ürün Durumu**:
-
 - Proje dosyaları arasında da şu an kullandığımız assetlerle ilgili görseller bulunmakta. Aşağıdaki görseller eklediğimiz bazı mekaniklerin kısa testidir.
 ![image](https://github.com/gokcinosman/U117-OUA/assets/58394816/fa03079c-2f64-4cb6-bd60-dc332db8b8e7)
 ![1111](https://github.com/gokcinosman/U117-OUA/assets/58394816/362da093-7f09-4fd9-91c9-ef9bbfff211f)
@@ -71,9 +70,50 @@ https://docs.google.com/document/d/1C-u2WocK9yQ1gy72g2E5NWr3-s_CVOLJUmA3-cIInOg/
 - İlk sprintte ekip içi iletişim konusunda sıkıntı yaşadık. Yoğunluklarımız ve vakit uyuşmazlıkları yüzünden ayrı toplanmak zorunda kaldık. Çoğu toplantıda 3 veya 4 kişiydik. İkinci sprintte bu durumu daha iyi yönetmek için ayrı çalışmayı destekleyecek şekilde taskler oluşturmanın yanında herhangi acil durumu/yoğunluğu birbirimize bildirmekte gecikmemeliyiz. 
 - İlk sprintte oyun teması ve genel fikri hakkında çok vakit kaybedildi, mekanikler üzerine daha fazla task oluşturma ve bitirme kısmına odaklanmamız gerekiyor.
 
-# Sprint 2
+# Sprint 2 
 
----
+ ## Product Backlog URL 
+ 
+- https://miro.com/app/board/uXjVM9x-_gw=/?share_link_id=445783936332  
+
+![U-117 Sprints2](https://github.com/gokcinosman/U117-OUA/assets/58394816/0d4d94b0-6a73-402e-8319-446016120822)
+
+ 
+- **Sprint Notları**: User storyleri okuyabilmek için product backlog üzerindeki tasklerin detaylarına gidebilirsiniz.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100
+
+- **Puan tamamlama mantığı**: 3 sprint için toplamda 300 puan olmasını kararlaştırdık. İlk sprint 80 puan ile başlıyor, ikinci ve üçüncü sprintlerde ise görevler detaylanarak 100 ve 120 puan olacak şekilde toplanıyor.
+
+- **Backlog düzeni ve Story seçimleri**: Product backlog öncelik sırasındadır ve story seçimleri sprint için belirlenen puanı geçmeyecek şekilde yapıldı.
+
+- **Daily Scrum**: Daily scrum toplantıları discord üzerinden, sesli şekilde yapıldı. Toplantılar genelde 10-15 dakika arası sürdü ve toplantılarda günlük fikirler ve durumlar paylaşıldı, neler yapılacağımız paylaşıldı. Daily scrum notlarımız aşağıdadır:
+
+https://docs.google.com/document/d/1z09NiduMHsj4OS3crfH891wBZQYKjTTiZ3wP2mdL86U/edit?usp=sharing 
+
+Moodboard: 
+
+https://miro.com/app/board/uXjVM53wuvA=/?share_link_id=215342748039
+
+- **Ürün Durumu**:
+25.06.23
+![castle003](https://github.com/gokcinosman/U117-OUA/assets/58394816/b55fda4e-748d-4abc-8b93-9cdb97b5b084) 
+![Screenshot_6](https://github.com/gokcinosman/U117-OUA/assets/58394816/1df29676-383a-445e-b7db-7693be0691a5)
+![Screenshot_5](https://github.com/gokcinosman/U117-OUA/assets/58394816/fc170d91-5514-4e61-864f-75c548d68598)
+
+- **Sprint Review**:
+
+- Katılımcılar: Tüm ekip üyeleri. 
+
+- Bu sprintte belirlediğimiz hedeflerin tamamına ulaşamadık. Oyun teması, ortam ve puzzle türlerini gözden geçirdik ve bir moodboard oluşturduk. Oyunun geçeceği ortamı belirlemek için orman içerisinde başlayan ve bir kaleye dönüşen bir atmosfer seçtik ve basitçe canlandırdık. Karakter oluşturduk, halihazırdaki mekaniklerimizi iyileştirdik ve nesnelerle etkileşimi daha iyi göstermek adına çalıştık. Ayrıca dış mekan tasarımını iyileştirmek ve odalara farklı puzzle mekaniklerini entegre etmek için çalışmalar yapıyoruz.  
+
+- Bayram yoğunluğu ve işlerdeki aksamalar sebebiyle bazı gecikmeler yaşadık ancak hedeflerimize büyük ölçüde ulaştık ve bir sonraki sprint için planlamaları yaptık. 
+
+- **Sprint Retrospective**:
+  
+- İkinci sprintteki ekip içi iletişim ve işbirliği sürecinde iyileşme kaydettik ama sorunları tamamen çözdüğümüzü söyleyemeyiz. Yine de birbirimize verdiğimiz geri bildirimlerle daha verimli bir şekilde çalıştık ve ilk sprinte kıyasla ilerlememizi daha iyi gözlemledik. 
+
+- Sprint boyunca iş ve sprint sonundaki bayram yoğunluğu da çalışmamıza zarar veren dış etkenler oldu. İletişim kanallarını etkin bir şekilde kullanmaya devam ederek ekip içi iletişimi etkili düzeyde tutmaya çalışacağız.
 
 # Sprint 3
 
