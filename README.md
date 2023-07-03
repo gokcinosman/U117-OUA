@@ -75,7 +75,7 @@ https://docs.google.com/document/d/1C-u2WocK9yQ1gy72g2E5NWr3-s_CVOLJUmA3-cIInOg/
 
  ## Product Backlog URL 
  
-- https://miro.com/app/board/uXjVM9x-_gw=/ 
+- https://miro.com/app/board/uXjVM9x-_gw=/?share_link_id=445783936332  
 
 ![U-117 Sprints2](https://github.com/gokcinosman/U117-OUA/assets/58394816/0d4d94b0-6a73-402e-8319-446016120822)
 
