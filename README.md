@@ -91,6 +91,10 @@ https://docs.google.com/document/d/1C-u2WocK9yQ1gy72g2E5NWr3-s_CVOLJUmA3-cIInOg/
 
 https://docs.google.com/document/d/1z09NiduMHsj4OS3crfH891wBZQYKjTTiZ3wP2mdL86U/edit?usp=sharing 
 
+Moodboard: 
+
+https://miro.com/app/board/uXjVM53wuvA=/?share_link_id=215342748039
+
 - **Ürün Durumu**:
 25.06.23
 ![castle003](https://github.com/gokcinosman/U117-OUA/assets/58394816/b55fda4e-748d-4abc-8b93-9cdb97b5b084) 
