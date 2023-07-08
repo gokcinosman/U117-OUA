@@ -3,6 +3,9 @@ using UnityEngine;
 public class Rotationer : MonoBehaviour
 {
     [SerializeField]
+    private Animator animator;
+
+    [SerializeField]
     private Transform objectToRotate;
 
     [SerializeField]
@@ -11,27 +14,20 @@ public class Rotationer : MonoBehaviour
     [SerializeField]
     private GameObject rightArrow;
 
-    // Rotation variables
     private bool isRotating;
-    private float rotationDirection;
-
-    // Initial and target rotations
     private Quaternion initialRotation;
     private Quaternion targetRotation;
 
-    // Rotation settings (degrees)
     [Range(0, 360)]
     public float rotationAngle = 90f;
-
-    // Rotation speed (degrees per second)
     public float rotationSpeed = 90f;
 
-    void Start()
+    private void Start()
     {
         initialRotation = objectToRotate.rotation;
     }
 
-    void Update()
+    private void Update()
     {
         if (!isRotating && Input.GetMouseButtonDown(0))
         {
@@ -63,15 +59,17 @@ public class Rotationer : MonoBehaviour
             {
                 objectToRotate.rotation = targetRotation;
                 isRotating = false;
+                animator.SetBool("isInteract", false);
             }
         }
     }
 
-    // Rotates the object by rotationDirection * rotationAngle degrees
-    void RotateObject(float direction)
+    private void RotateObject(float direction)
     {
         isRotating = true;
+        animator.SetBool("isInteract", true);
 
-        targetRotation = objectToRotate.rotation * Quaternion.Euler(0f, 90 * direction, 0f);
+        targetRotation =
+            objectToRotate.rotation * Quaternion.Euler(0f, rotationAngle * direction, 0f);
     }
 }
