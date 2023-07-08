@@ -70,6 +70,6 @@ public class Rotationer : MonoBehaviour
         animator.SetBool("isInteract", true);
 
         targetRotation =
-            objectToRotate.rotation * Quaternion.Euler(0f, rotationAngle * direction, 0f);
+            objectToRotate.rotation * Quaternion.Euler(0f, 0, rotationAngle * direction);
     }
 }

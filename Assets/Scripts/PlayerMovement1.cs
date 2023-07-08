@@ -3,22 +3,25 @@ using UnityEngine;
 public class PlayerMovement1 : MonoBehaviour
 {
     [SerializeField]
-    private float speed = 5f; // Karakter hızı
+    private float speed = 5f;
 
     [SerializeField]
-    private float rotationSpeed = 100f; // Dönüş hızı
+    private float rotationSpeed = 100f;
 
     [SerializeField]
-    private float jumpForce = 5f; // Zıplama kuvveti
+    private float runSpeedMultiplier = 2f;
 
     [SerializeField]
-    private Transform groundCheck; // Ground check için kullanılan boş nesne
+    private float jumpForce = 5f;
 
     [SerializeField]
-    private float groundDistance = 0.2f; // Ground check mesafesi
+    private Transform groundCheck;
 
     [SerializeField]
-    private LayerMask groundLayer; // Zeminin layer'ı
+    private float groundDistance = 0.2f;
+
+    [SerializeField]
+    private LayerMask groundLayer;
 
     [SerializeField]
     private Rigidbody rb;
@@ -43,15 +46,22 @@ public class PlayerMovement1 : MonoBehaviour
         float horizontalInput = Input.GetAxisRaw("Horizontal");
         float verticalInput = Input.GetAxisRaw("Vertical");
 
-        // Karakterin hareketini kontrol et
+        // Check if the player is running
+        bool isRunning = Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift);
+
+        // Apply movement speed
+        float currentSpeed = speed;
+        if (isRunning)
+            currentSpeed *= runSpeedMultiplier;
+
+        // Calculate movement vector
         Vector3 movement =
-            (transform.forward * verticalInput + transform.right * horizontalInput)
-            * speed
+            (transform.forward * verticalInput + transform.right * horizontalInput).normalized
+            * currentSpeed
             * Time.deltaTime;
 
         rb.MovePosition(rb.position + movement);
 
-        // Ground check'i yap ve isGrounded değerini güncelle
         isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundLayer);
     }
 
@@ -65,10 +75,8 @@ public class PlayerMovement1 : MonoBehaviour
         float mouseX = Input.GetAxis("Mouse X") * rotationSpeed * Time.deltaTime;
         float mouseY = Input.GetAxis("Mouse Y") * rotationSpeed * Time.deltaTime;
 
-        // Yatay eksende oyuncuyu (karakteri) döndürme işlemi
         transform.Rotate(Vector3.up, mouseX);
 
-        // Dikey eksendeki kamera rotasyonunu güncelleme işlemi.
         xRotation -= mouseY;
         xRotation = Mathf.Clamp(xRotation, -90f, 90f);
 
