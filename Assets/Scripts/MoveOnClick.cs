@@ -42,15 +42,20 @@ public class MoveOnClick : MonoBehaviour
             Vector3 localClickPosition = transform.InverseTransformPoint(clickPosition);
 
             // Calculate the new target position based on the click position
-            if (localClickPosition.x >= 0)
+            Vector3 movementDirection = Vector3.zero;
+
+            if (Mathf.Abs(localClickPosition.x) >= Mathf.Abs(localClickPosition.z))
             {
-                targetPosition = transform.position + Vector3.right * moveDistance; // Clicked on the right side, move to the right
+                // Clicked on the left or right side
+                movementDirection = localClickPosition.x >= 0 ? Vector3.right : Vector3.left;
             }
             else
             {
-                targetPosition = transform.position + Vector3.left * moveDistance; // Clicked on the left side, move to the left
+                // Clicked on the forward or backward side
+                movementDirection = localClickPosition.z >= 0 ? Vector3.forward : Vector3.back;
             }
 
+            targetPosition = transform.position + movementDirection * moveDistance;
             isMoving = true; // Start moving
         }
     }
