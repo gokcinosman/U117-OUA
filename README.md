@@ -9,7 +9,6 @@
 - Yağmur ERNALBANT: Team Member/Scrum Master/Developer
 - Osman GÖKÇİN: Team Member/Developer
 - Hazal DEMİR: Team Member/Game Artist
-- Sedat ZENGİN: Team Member
 
 ## Ürün İsmi
 
@@ -117,4 +116,39 @@ https://miro.com/app/board/uXjVM53wuvA=/?share_link_id=215342748039
 
 # Sprint 3
 
----
+ ## Product Backlog URL 
+
+- https://miro.com/app/board/uXjVM9x-_gw=/?share_link_id=280765053972 
+
+![U-117 Sprints (2)](https://github.com/gokcinosman/U117-OUA/assets/58394816/29c9e43c-a752-4920-9ed4-551e066b8196)
+
+- **Sprint Notları**: User storyleri okuyabilmek için product backlog üzerindeki tasklerin detaylarına gidebilirsiniz.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120
+
+- **Puan tamamlama mantığı**: 3 sprint için toplamda 300 puan olmasını kararlaştırdık. İlk sprint 80 puan ile başlıyor, ikinci ve üçüncü sprintlerde ise görevler detaylanarak 100 ve 120 puan olacak şekilde toplanıyor.
+
+- **Backlog düzeni ve Story seçimleri**: Product backlog öncelik sırasındadır ve story seçimleri sprint için belirlenen puanı geçmeyecek şekilde yapıldı.
+
+- **Daily Scrum**: Daily scrum toplantıları discord üzerinden, sesli şekilde yapıldı. Toplantılar genelde 10-15 dakika arası sürdü ve toplantılarda günlük fikirler ve durumlar paylaşıldı, neler yapılacağımız paylaşıldı. Daily scrum notlarımız aşağıdadır:
+
+- https://docs.google.com/document/d/1svh0fMaOs2iXQFiJeGarbFE4W4NJCKdDeUOUmD1HY68/edit?usp=sharing 
+
+- **Ürün Durumu**:
+
+![image](https://github.com/gokcinosman/U117-OUA/assets/58394816/76cf622d-9908-4397-8784-f64614f88cda)
+![image](https://github.com/gokcinosman/U117-OUA/assets/58394816/8ff18510-908d-4a73-b2b5-f7318d03ab50)
+![image](https://github.com/gokcinosman/U117-OUA/assets/58394816/3b071d11-ca67-4d6c-8ab8-d131c0862d7b)
+![image](https://github.com/gokcinosman/U117-OUA/assets/58394816/ec9dca91-4c7f-4867-a1c4-bedeb87c945a)
+
+- **Sprint Review**:
+
+- Katılımcılar: Tüm ekip üyeleri.
+
+- Bu sprintte hedeflerimizi bitirerek projeyi sonlandırdık. Level design, mekanikler ve yaptığımız her şeyi bir araya getirdik. Dış ve iç mekan tasarımlarının tümü üzerine çalıştık ve planladığımız odalara farklı puzzlelar yerleştirdik.
+- Projeyi birleştirirken çok fazla hata aldık ve düzeltmek bazen uzun sürdü, ancak projeyi sonlandırmayı başardık.
+
+- **Sprint Retrospective**:
+
+- Ekipte işbirliği sürecinde iyileşme kaydettik. Yoğunluklar ve hatalardan dolayı sürekli birlikte çalışmamız yine mümkün olmadı ama projeyi tamamlayabildik. Kattıklarımızdan memnun bir şekilde projeyi kapattık.
+
